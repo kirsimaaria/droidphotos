@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Photobrowser</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="welcome">"Welcome to Photobrowser. \n\n"
+        "To see thumbnails of all the photos from the JSON server click gallery button above. \n\n"
+
+        "The toolbar uses collapsing toolbar layout. If you don't see the action item swipe down on the toolbar. \n\n"
+
+        "Details view and user and album info and filtering to come in the next versions. \n\n"
+        Enjoy! </string>
+</resources>
